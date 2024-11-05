@@ -3,3 +3,4 @@
 ```markdown
 pip install pydantic
 ```
+[Documentation](https://docs.pydantic.dev/latest/)
